@@ -32,7 +32,8 @@ namespace OOP1
     {
         public void SaYHelloSergey()
         {
-            Console.WriteLine("Hello Sergey!");
+            Console.WriteLine("Новый Текст!!" +
+                "!");
         }
     }
 }
