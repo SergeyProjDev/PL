@@ -34,7 +34,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Program started\nPress \'e\' to Exit.\n");
+            Console.WriteLine("Program started\n");
             Program program = new Program();
             program.ExitListener();
             program.StartConsole();
