@@ -13,7 +13,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello!");
             string a = Console.ReadLine();
-            Console.WriteLine("Hello, "+a);
+            Console.WriteLine("New Facking Version, "+a);
         }
     }
 
