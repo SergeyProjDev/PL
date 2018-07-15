@@ -11,7 +11,7 @@ namespace ConsoleApp1
     {
         private void StartConsole()
         {
-            Console.WriteLine("Hello");
-        }  
+
+        }
     }
 }
