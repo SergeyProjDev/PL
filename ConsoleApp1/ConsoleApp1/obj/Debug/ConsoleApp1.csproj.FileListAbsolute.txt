@@ -1,4 +1,5 @@
 C:\Users\Sergey\Desktop\PL\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\PL\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
 C:\Users\Sergey\Desktop\PL\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
 C:\Users\Sergey\Desktop\PL\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
 C:\Users\Sergey\Desktop\PL\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb

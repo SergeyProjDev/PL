@@ -11,41 +11,7 @@ namespace ConsoleApp1
     {
         private void StartConsole()
         {
-            Console.WriteLine("Hello!");
-            string a = Console.ReadLine();
-            Console.WriteLine("Slava, "+a);
-        }
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    partial class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Program started\n");
-            Program program = new Program();
-            program.ExitListener();
-            program.StartConsole();
-
-
-            Console.WriteLine("\nProgram ended");
-            Console.ReadKey();
-        }
-        public void ExitListener()
-        {
-            
-        }
+            Console.WriteLine("Hello");
+        }  
     }
 }
